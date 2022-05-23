@@ -1,0 +1,33 @@
+#oval {
+border-radius: 25px;
+border-color: lightslategray;
+background-color: lightblue;
+color: darkslategray;
+border-style: solid;
+margin-bottom: 1%;
+margin-left: 5%;
+margin-top: 5%;
+width: 12%;
+height: 30px;
+}
+#circle{
+border-radius: 50%;
+background-color: goldenrod;
+color: white;
+border-color: goldenrod;
+margin-bottom: 1%;
+margin-left: 5%;
+border-style: solid;
+}
+#rectangle{
+border-radius: 0%;
+border-color: rgb(130, 72, 141);
+color: white;
+background-color: rgb(197, 155, 237);
+padding-left: 3%;
+padding-right: 3%;
+margin-left: 5%;
+padding: .5% 3% .5% 3%;
+box-shadow: 3px 3px 0.5px 1px rgb(67, 48, 76);
+border-style: solid;
+}
