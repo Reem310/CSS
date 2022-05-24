@@ -1,22 +1,22 @@
-.row{
+.row {
     display: flex;
 }
 
-.col{
+.col {
     flex: 1;
     padding: 20px;
     margin: 10px;
     background-color: rgb(48, 163, 109);
 }
 
-.col-2{
+.col-2 {
     flex: 2;
     padding: 20px;
     margin: 10px;
-    background-color: rgb(48, 163, 109);  
+    background-color: rgb(48, 163, 109);
 }
 
-.col-3{
+.col-3 {
     flex: 3;
     padding: 20px;
     margin: 10px;
