@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.main {
+    width: 700px;
+    margin: 0 auto;
+    display: flex;
+}
+.user-card {
+    width: 100%;
+    border: 2px solid rgb(58, 57, 57);
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-header {
+    background-color: #16387b;
+    height: 125px;
+    margin-bottom: 70px;
+}
+.card-body {
+    padding: 20px;
+}
+.card-body h1, 
+.card-body h2,
+.card-body h3,
+.card-body p {
+    margin: 15px 0px;
+}
+.user-icon{
+    border-radius: 50%;
+    background-color: #fff;
+    height: 190px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.map-marker {
+    height: 20px;
+}
+.gear{
+    height: 20px;
+}
+a {
+    color: #568ff0;
+}
