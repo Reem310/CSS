@@ -17,7 +17,7 @@ body {
     border-radius: 5px;
 }
 .card-header {
-    background-color: #16387b;
+    background-color: #4391c1;
     height: 125px;
     margin-bottom: 70px;
 }
@@ -32,7 +32,7 @@ body {
 }
 .user-icon{
     border-radius: 50%;
-    background-color: #fff;
+    background-color: white;
     height: 190px;
     padding: 5px;
     margin-top: 20px;
@@ -45,5 +45,5 @@ body {
     height: 20px;
 }
 a {
-    color: #568ff0;
+    color: #4d9cce;
 }
