@@ -28,7 +28,10 @@ body {
     border: 2px solid rgb(58, 57, 57);
     margin-top: 30px;
     border-radius: 5px;
-    margin-top: ;
+}
+h3, h4{
+    padding: 3px;
+    margin-left: 5px;
 }
 .card-header {
     background-color: #4391c1;
@@ -82,6 +85,7 @@ h1{
     font-weight: 50%;
     margin-top: auto;
     margin-bottom: auto;
+    padding: 10px;
 }
 
 .nav-links{
@@ -115,13 +119,13 @@ a {
 
 .requests {
     display: flex;
-    margin-top: -100px;
+    margin-top: -115px;
     border-radius: 10px;
     justify-content: space-between;
     margin-left: 20px;
 }
 .gray{
-    height: 0%;
+    height: 30px;
     background-color: rgb(84, 82, 82);
     display: flex;
     padding-left: 4%;
@@ -162,8 +166,9 @@ a {
     width: 150%;
     display: flex;
     flex-direction: column;
-    border: 2px solid gray;
+    border: 2px solid rgb(53, 52, 52);
     font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
 }
 .info-requests{
     display: flex;
@@ -206,9 +211,10 @@ a {
     margin: 2% 0%;
     display: flex;
     flex-direction: column;
-    border: 2px solid gray;
+    border: 2px solid rgb(53, 52, 52);
     font-family: 'Roboto', sans-serif;
     width: 150%;
+    border-radius: 5px;
 }
 
 .view-more{
