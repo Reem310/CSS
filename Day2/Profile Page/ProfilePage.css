@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -119,7 +118,7 @@ a {
 
 .requests {
     display: flex;
-    margin-top: -115px;
+    margin-top: -120px;
     border-radius: 10px;
     justify-content: space-between;
     margin-left: 20px;
@@ -139,7 +138,6 @@ a {
     margin: 0% 2%;
     width: 10%;
 }
-
 .frnd-num{
     text-align: center;
     background-color: #9f9f9f;
@@ -149,7 +147,6 @@ a {
     margin: 0% 2%;
     width: 23%;
 }
-
 .information , .requests{
     display: flex;
     flex-direction: column;
@@ -216,7 +213,6 @@ a {
     width: 150%;
     border-radius: 5px;
 }
-
 .view-more{
     border-top:solid rgb(8, 8, 8);
     padding: 2% 4%;
